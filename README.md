@@ -10,7 +10,7 @@ My name is Gabriel Moraes da Silva. I recently graduated in Computer Science at 
 
 - 🔭 I’m currently working on some data science projects. As soon as I start a project, it'll be available here. 
 
-- ⚡ Fun fact: I love learning random facts. You can ask me one, if you want.
+- ⚡ Fun fact: I love learning random trivia. You can ask me one, if you want.
 
 <!--
 **G-Moraes/G-Moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
